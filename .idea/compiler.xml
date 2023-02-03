@@ -9,5 +9,8 @@
         <module name="statistics" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jacoco" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
